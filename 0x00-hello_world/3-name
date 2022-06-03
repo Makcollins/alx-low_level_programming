@@ -1,0 +1,5 @@
+#! /bin/bash
+
+gcc 0-preprocessor.c -o cisfun
+chmod +x cisfun
+
